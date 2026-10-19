@@ -17,7 +17,7 @@ local BLOCK_SIZE = Vector3.new(2, 0.4, 2)
 
 -- Consistent wobble settings
 local MAX_SWING_ANGLE = math.rad(45)
-local DRIVE_FREQUENCY = 2.5
+local DRIVE_FREQUENCY = 12
 local WOBBLE_RESPONSE = 12
 local WOBBLE_DAMPING = 5
 
